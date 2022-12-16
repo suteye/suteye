@@ -43,11 +43,16 @@
     <tr>
         <td align="center"><a href="https://github.com/suteye#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=suteye&theme=default"/></a><a href="https://github.com/suteye#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=suteye&theme=tokyonight"/></a></td>
     </tr>
-    <tr>
-
-    <td colspan="2" align="center"><a href="https://github.com/suteye#gh-light-mode-only"><img src="https://raw.githubusercontent.com/suteye/suteye/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/suteye#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/suteye/suteye/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-    </tr>
 </table>
+
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br>
+  <img alt="snake eating my contribution" src="https://github.com/suteye/suteye/blob/output/github-contribution-grid-snake.svg">
+  <br>
+  <br>
+  <br>
+</div>
 
 ###
 <!--
